@@ -26,6 +26,8 @@ The algorithm uses the OpenCV library to detect faces in the image using a pre-t
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------Image Data set from Kaggle : https://www.kaggle.com/datasets/vin1234/count-the-number-of-faces-present-in-an-image?resource=download
+
+
 About the Data set: Count the number of Faces present in an Image
 Detecting instances of an object such as human faces in a picture
 Total of 8196 jpg Images 
