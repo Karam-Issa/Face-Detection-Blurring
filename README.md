@@ -2,7 +2,7 @@
 
 
 # Face-Detection-Blurring
-Karam Issa  An algorithm that blurs out people's faces in any given colored image without affecting the remaining parts of the image, if any face exists. Tested using Image data set 
+An algorithm that blurs out people's faces in any given colored image without affecting the remaining parts of the image, if any face exists. Tested using Image data set 
 
 The algorithm uses the OpenCV library to detect faces in the image using a pre-trained classifier, and then applies a Gaussian blur to the detected faces to blur them. Here is an overview of the steps performed by the code:
 
